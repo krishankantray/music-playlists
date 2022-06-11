@@ -4,10 +4,10 @@
   "desc": "Some really heart touching romantic songs.",
   "list": [
     {
-      "name": "Kali Kali Zulfo Ke",
-      "singer": "Nusrat Fateh",
+      "name": "Excuse",
+      "singer": "AP Dhillon",
       "cover": "/static/images/default_track.png",
-      "musicSrc": "https://raw.githubusercontent.com/krishankantray/music-playlists/main/meaningful/Kali_Kali_Zulfon_Ke.mp3"
-    }
+      "musicSrc": "https://raw.githubusercontent.com/krishankantray/music-playlists/main/punjabi/Raatan_Lambiyan.mp3"
+    },
   ]
 }
