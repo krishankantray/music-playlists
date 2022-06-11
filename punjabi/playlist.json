@@ -1,13 +1,19 @@
 {
   "name": "Punjabi",
   "thumbnail": "https://raw.githubusercontent.com/krishankantray/music-playlists/main/punjabi/punjabi_thumbnail.jpg",
-  "desc": "Some really heart touching romantic songs.",
+  "desc": "Punjabi folk and hip hops.",
   "list": [
     {
       "name": "Pasoori",
       "singer": "Shae Gill & Ali Sethi",
       "cover": "/static/images/default_track.png",
       "musicSrc": "https://raw.githubusercontent.com/krishankantray/music-playlists/main/punjabi/Pasoori.mp3"
+    },
+    {
+      "name": "Excuse",
+      "singer": "AP Dhillon",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://raw.githubusercontent.com/krishankantray/music-playlists/main/punjabi/Excuse.mp3"
     }
   ]
 }
