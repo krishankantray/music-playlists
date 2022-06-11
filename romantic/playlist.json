@@ -4,10 +4,16 @@
   "desc": "Some really heart touching romantic songs.",
   "list": [
     {
-      "name": "Excuse",
-      "singer": "AP Dhillon",
+      "name": "Raataan Lambiyan",
+      "singer": "Jubin Nautiyal",
       "cover": "/static/images/default_track.png",
-      "musicSrc": "https://raw.githubusercontent.com/krishankantray/music-playlists/main/punjabi/Raatan_Lambiyan.mp3"
+      "musicSrc": "https://raw.githubusercontent.com/krishankantray/music-playlists/main/romantic/Raatan_Lambiyan.mp3"
+    },
+    {
+      "name": "Tujhe Kitna Chahne Lage",
+      "singer": "Arijit Singh",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://raw.githubusercontent.com/krishankantray/music-playlists/main/romantic/Tujhe_Kitna_Chahne_Lage.mp3"
     },
   ]
 }
