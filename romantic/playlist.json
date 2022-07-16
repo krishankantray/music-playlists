@@ -111,6 +111,11 @@
       "cover": "/static/images/default_track.png",
       "musicSrc": "https://raw.githubusercontent.com/krishankantray/music-playlists/main/romantic/YEH%20DIL%20DEEWANA%20_VARUN%20KABRA%20_R3ZR%20_SHAHRUKH%20KHAN.mp3"
     },
-    
+    {
+      "name": "Jab Koi Baat Bigad Jaye",
+      "singer": "Re-Sung",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://raw.githubusercontent.com/krishankantray/music-playlists/main/romantic/Jab%20Koi%20Baat%20Bigadh%20Jae%20_%20Unplugged%20_%20Rahul%20Jain.mp3"
+    }
   ]
 }
