@@ -26,6 +26,91 @@
       "singer": "Tulsi Kumar",
       "cover": "/static/images/default_track.png",
       "musicSrc": "https://pwdown.com/14697/Tera%20Ban%20Jaunga%20-%20Kabir%20Singh.mp3"
-    }
+    },
+    {
+      "name": "Tum hi aana",
+      "singer": "Jubin Nautiyal",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://pwdown.com/113434/Tum%20Hi%20Aana%20-%20Marjaavaan.mp3"
+    },
+    {
+      "name": "Pal",
+      "singer": "Arijit Singh",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://pwdown.com/14475/02%20Pal%20-%20Jalebi%20-%20Arijit%20Singh.mp3"
+    },
+    {
+      "name": "Bekhayali",
+      "singer": "Sachet",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://pwdown.com/14697/Bekhayali%20-%20Kabir%20Singh.mp3"
+    },
+    {
+      "name": "Dekhte Dekhte",
+      "singer": "Atif Aslam",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://pwdown.com/14447/02%20Dekhte%20Dekhte%20-%20Batti%20Gul%20Meter%20Chalu.mp3"
+    },
+    {
+      "name": "Dil Diya Gallan",
+      "singer": "Atif Aslam",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://pwdown.com/12831/02%20Dil%20Diyan%20Gallan%20-%20Tiger%20Zinda%20Hai%20(Atif)%20320Kbps.mp3"
+    },
+    {
+      "name": "Tere Sang Yara",
+      "singer": "Atif Aslam",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://cdn.pagalworld.us/songs/320kbps/Rustom%202016%20-%20Tere%20Sang%20Yaara.mp3"
+    },
+    {
+      "name": "Jeena Jeena",
+      "singer": "Atif Aslam",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://pwdown.com/9794/Jeena%20Jeena%20-%20Badlapur%20[Atif%20Aslam]%20320Kbps.mp3"
+    },
+    {
+      "name": "Piya O Re Piya",
+      "singer": "Atif Aslam",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": ""
+    },
+    {
+      "name": "Mera Ghar hai Kahan Maula",
+      "singer": "Atif Aslam",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://pwdown.com/12054/Maula%20-%20Atif%20Aslam%20-%20320Kbps.mp3"
+    },
+    {
+      "name": "Mai Rang Sharbato Ka",
+      "singer": "Atif Aslam",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://pwdown.com/12054/Main%20Rang%20Sharbaton%20(PPNH)%20Atif%20Aslam%20-%20320Kbps.mp3"
+    },
+    {
+      "name": "Mai Tenu Samjhawa Ki",
+      "singer": "Arijit Singh",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://pwdown.com/9478/02%20Samjhawan%20-%20Humpty%20Sharma%20Ki%20Dulhania.mp3"
+    },
+    {
+      "name": "Moh Moh Ke Dhage",
+      "singer": "Papon",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://pwdown.com/9605/01%20Moh%20Moh%20Ke%20Dhaage%20(Male)%20-%20Papon%20-%20190Kbps.mp3"
+    },
+    {
+      "name": "Sawar Loon",
+      "singer": "Monali Thakur",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://pwdown.com/111907/01.%20Sawaar%20Loon.mp3"
+    },
+    {
+      "name": "Ye Dil Dewana",
+      "singer": "Sonu Nigam",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://pagalsong.in/uploads/systemuploads/mp3/Pardes/Yeh%20Dil%20Deewana%20-%20Pardes%20128%20Kbps.mp3"
+    },
+    
   ]
 }
