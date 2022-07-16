@@ -20,6 +20,12 @@
       "singer": "Arijit Singh",
       "cover": "/static/images/default_track.png",
       "musicSrc": "https://raw.githubusercontent.com/krishankantray/music-playlists/main/romantic/Hawayein.mp3"
+    },
+    {
+      "name": "Tera Ban Jaunga",
+      "singer": "Tulsi Kumar",
+      "cover": "/static/images/default_track.png",
+      "musicSrc": "https://pwdown.com/14697/Tera%20Ban%20Jaunga%20-%20Kabir%20Singh.mp3"
     }
   ]
 }
